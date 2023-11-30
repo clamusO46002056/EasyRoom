@@ -1,0 +1,12 @@
+Claudio,Musmeci,fiscale1,claudio@mail.it,01/01/2000
+Serena,Barbieri,fiscale2,serena@mail.it,19/05/1987
+Davide,Giordano,fiscale3,davide@mail.it,08/04/1991
+Valentina,Rossini,fiscale4,valentina@mail.it,12/10/1983
+Marco,Rossi,fiscale5,marco@mail.it,10/09/1995
+Alessia,Bianchi,fiscale6,alessia@mail.it,22/07/1988
+Andrea,Moretti,fiscale7,andrea@mail.it,03/11/1990
+Chiara,Ricci,fiscale8,chiara@mail.it,14/06/1985
+Matteo,Conti,fiscale9,matteo@mail.it,20/03/1993
+Laura,Gallo,fiscale10,laura@mail.it,07/12/1982
+
+Edoardo,Magro,fiscale11,edoardo@mail.it,17/08/2002

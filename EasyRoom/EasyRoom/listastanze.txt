@@ -1,0 +1,6 @@
+1,Halloween,50.0
+2,Guerra,60.5
+3,Futuro,30.5
+4,Orrore,45.0
+5,Horror,90.0
+6,Prova,1000.0
